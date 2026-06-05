@@ -319,4 +319,4 @@ Through this project, I gained hands-on experience with:
 ## Author
 
 Chaitanya Vinjamuri 
-SDE Intern
+SDE Trainee
